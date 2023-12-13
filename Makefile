@@ -1,5 +1,5 @@
 
-TARGET = Petscop-PsyQ
+TARGET = Sheriff-Domestic
 TYPE = ps-exe
 
 SRCS = third_party/nugget/common/crt0/crt0.s main.c
