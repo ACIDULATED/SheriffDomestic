@@ -3,4 +3,4 @@ This is a recreation of the fictional game Sheriff Domestic from the webseries o
 
 It uses the PSX.DEV VSCode extension with the official Sony Psy-Q SDK. (https://marketplace.visualstudio.com/items?itemName=Grumpycoders.psx-dev)
 
-It also uses Part 5 from Wituz's PSX dvelopment tutorials as a base. (https://github.com/Wituz/wituz-youtube)
+It also uses Part 5 from Wituz's PSX development tutorials as a base. (https://github.com/Wituz/wituz-youtube)
